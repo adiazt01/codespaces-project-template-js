@@ -404,7 +404,6 @@ Explore how you can use Copilot to help you:
 * add Education to your top navigation
 * build education details by prompting it (_Hint_: add the comment of "grid of 4 education cells") 
 -------
-
 <br />
 
 ## 📚 Resources
